@@ -3,5 +3,5 @@
   int  number = 100;
   
   printf("%d", number);
-  return  0;
+  return  1;
 }
